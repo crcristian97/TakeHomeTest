@@ -11,6 +11,7 @@ Navigate to the project directory in your terminal
 Install the dependencies with npm install
 
 The dependencies:
+
 -npm i react
 
 -npm i flask
