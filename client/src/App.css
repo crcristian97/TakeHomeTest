@@ -1,0 +1,52 @@
+
+*{
+  background-color: rgb(80, 199, 214);
+  font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+
+.commit-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.commit-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.commit-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.username {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.date {
+  font-size: 16px;
+  font-style: italic;
+}
+
+.url {
+  font-size: 16px;
+  margin-top: 10px;
+}
