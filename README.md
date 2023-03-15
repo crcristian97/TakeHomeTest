@@ -5,12 +5,17 @@ This project uses React for the front-end and Python with Flask for the back-end
 To install the project, follow these steps:
 
 Clone the repository from GitHub
+
 Navigate to the project directory in your terminal
+
 Install the dependencies with npm install
 
 The dependencies:
 -npm i react
+
 -npm i flask
+
+
 -npm install -D tailwindcss postcss-cli autoprefixer
 
 # Usage
@@ -20,12 +25,17 @@ To start the back-end server, navigate to the backend directory in your terminal
 
 # Technologies Used
 -React
+
 -Python
+
 -Flask
+
 -TailwindCSS
+
 
 # Additional Information
 Creating the React App
+
 This project was bootstrapped with Create React App.
 
 Using TailwindCSS
